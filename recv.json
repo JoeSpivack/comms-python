@@ -1,12 +1,12 @@
 {
-    "id": "recv",
+    "id": "array",
     "topics": [
         {
             "name": "array-in",
             "topic": "array",
             "paradigm": "sub",
             "protocol": "tcp",
-            "address": "127.0.0.1",
+            "address": "127.0.0.2",
             "port": "5556"
         }
     ]
